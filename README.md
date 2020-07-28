@@ -12,7 +12,7 @@ I am an assistant professor of Applied Science at William and Mary, currently wo
 
 If you are reading this page, please note that **I am always looking for good Ph.D. students!**  Good at Python, interested in computer vision and satellite data?  Like Williamsburg when you came as an elementary school student?  Email me!
 <a href="">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRunfola
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRunfola">
  </a>
 <a href="">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanRunfola&show_icons=true&bg_color=FFFFFF&layout=compact&count_private=true&hide_rank=true&hide_title=true&hide_border=true">
