@@ -10,11 +10,10 @@ I am an assistant professor of Applied Science at William and Mary, currently wo
 - [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning CPU cycles on bad ones.
 - A range of projects exploring how novel neural network architectures can aid us in extracting data from satellites.  I.e., "playing with fancy videocards".
 
-If you are reading this page, please note that **I am always looking for good Ph.D. students!**  Good at Python, interested in computer vision and satellite data?  Like Williamsburg when you came as a elementary school student?  Email me!
-
+If you are reading this page, please note that **I am always looking for good Ph.D. students!**  Good at Python, interested in computer vision and satellite data?  Like Williamsburg when you came as an elementary school student?  Email me!
+<a href="">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRunfola
+ </a>
 <a href="">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanRunfola&show_icons=true&bg_color=FFFFFF&layout=compact&count_private=true&hide_rank=true&hide_title=true&hide_border=true">
 </a>
-<a href="">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRunfola&layout=compact"
- </a>
