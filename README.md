@@ -6,7 +6,7 @@
 [![Schedule](https://img.shields.io/badge/-Schedule%20a%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/danrunfola)
 
 I am an assistant professor of Applied Science at William and Mary, currently working at the nexus of machine learning and satellite imagery analysis for non-traditional applications (no land cover change here!).  Things that I spend my time on include:
-- Supporting my undergraduate and Ph.D. students research through the [ICSS](https://icss.wm.edu) and [geolab](https://geolab.wm.edu).
+- Supporting my undergraduate and Ph.D. students' research through the [ICSS](https://icss.wm.edu) and [geolab](https://geolab.wm.edu).
 - Coding for the [geoBoundaries Open Administrative Boundaries dataset](https://www.geoboundaries.org)  
 - [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning CPU cycles on bad ones.
 - A range of projects exploring how novel neural network architectures can aid us in extracting data from satellites.  I.e., "playing with fancy videocards".
