@@ -1,4 +1,4 @@
-## I'm Dan Runfola, a Geographer @ [William & Mary](https://icss.wm.edu)
+## I'm Dan Runfola, a Professor @ [William & Mary](https://icss.wm.edu)
 
 [![Gmail](https://img.shields.io/badge/-danr@wm.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danr@wm.edu "Connect via Email")
 [![Linkedin](https://img.shields.io/badge/-Dan%20Runfola-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geogdan/ "Connect on LinkedIn")
