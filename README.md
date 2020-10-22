@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-Dan%20Runfola-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geogdan/ "Connect on LinkedIn")
 [![Twitter](https://img.shields.io/badge/-@geogdan-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=geogdan "Follow on Twitter")
 [![Schedule](https://img.shields.io/badge/-Schedule%20a%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/danrunfola)
-
+[![Course Overrie](https://img.shields.io/badge/-Request%20Course%20Override-green?style=for-the-badge](https://wmsas.qualtrics.com/jfe/form/SV_0wCSzsNiIgbopQ9)
 I am an assistant professor of Applied Science at William and Mary, currently working at the nexus of machine learning and satellite imagery analysis for non-traditional applications (not much land cover change here!).  Things that I spend my time on include:
 - Supporting my undergraduate and Ph.D. students' research through the [ICSS](https://icss.wm.edu) and [geolab](https://geolab.wm.edu).
 - Coding for the [geoBoundaries Open Administrative Boundaries dataset](https://www.geoboundaries.org)  
