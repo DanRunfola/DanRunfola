@@ -9,7 +9,7 @@
 I am an assistant professor of Applied Science at William and Mary, currently working at the nexus of machine learning and satellite imagery analysis for non-traditional applications (not much land cover change here!).  Things that I spend my time on include:
 - Supporting my undergraduate and Ph.D. students' research through the [ICSS](https://icss.wm.edu) and [geolab](https://geolab.wm.edu).
 - Coding for the [geoBoundaries Open Administrative Boundaries dataset](https://www.geoboundaries.org)  
-- [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning CPU cycles on bad ones.
+- [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning cycles on bad ones.
 - A range of projects exploring how novel neural network architectures can aid us in extracting data from satellites.  I.e., "playing with fancy videocards".
 - Forgetting to update [my CV](https://docs.google.com/document/d/1rdIEx_osvmdzQhukGPZ2FkaA_gLcRnrIfeY6fbkLJ7g/edit?usp=sharing)
 
