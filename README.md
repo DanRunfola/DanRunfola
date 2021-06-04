@@ -6,7 +6,9 @@
 [![Schedule](https://img.shields.io/badge/-Schedule%20a%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/danrunfola)
 [![CourseOverride](https://img.shields.io/badge/-Request%20Course%20Override-green?style=for-the-badge)](https://wmsas.qualtrics.com/jfe/form/SV_0wCSzsNiIgbopQ9)
 
-I am an assistant professor of Applied Science at William and Mary, currently working at the nexus of machine learning and satellite imagery analysis for non-traditional applications (not much land cover change here!).  Things that I spend my time on include:
+I am an assistant professor of Applied Science at William and Mary, currently working at the nexus of deep learning and satellite imagery analysis for social good. My research lab works with federal agencies and international NGOs to develop new ways to measure, predict, and understand human behavior at micro to macro scales.
+
+Things that I spend my time on today include:
 - Supporting my undergraduate and Ph.D. students' research through the [ICSS](https://icss.wm.edu) and [geolab](https://geolab.wm.edu).
 - Coding for the [geoBoundaries Open Administrative Boundaries dataset](https://www.geoboundaries.org)  
 - [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning cycles on bad ones.
