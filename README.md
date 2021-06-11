@@ -6,7 +6,7 @@
 [![Schedule](https://img.shields.io/badge/-Schedule%20a%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/danrunfola)
 [![CourseOverride](https://img.shields.io/badge/-Request%20Course%20Override-green?style=for-the-badge)](https://wmsas.qualtrics.com/jfe/form/SV_0wCSzsNiIgbopQ9)
 
-I am an assistant professor of [Applied Science](https://as.wm.edu) at [William and Mary](https://www.wm.edu), currently working at the nexus of deep learning and satellite imagery analysis. I work with federal agencies and international NGOs to develop new ways to measure, predict, and improve human wellbeing at micro to macro scales. In collaboration with my wonderful students in the [geoLab](https://geolab.wm.edu), I also help to provision [critical baseline data](https://www.geoboundaries.org) to the opensource community to improve data equality around the world.
+I am an assistant professor of [Data Science](https://ds.wm.edu) and [Applied Science](https://as.wm.edu) at [William and Mary](https://www.wm.edu), currently working at the nexus of deep learning and satellite imagery analysis. I work with federal agencies and international NGOs to develop new ways to measure, predict, and improve human wellbeing at micro to macro scales. In collaboration with my wonderful students in the [geoLab](https://geolab.wm.edu), I also help to provision [critical baseline data](https://www.geoboundaries.org) to the opensource community to improve data equality around the world.
 
 Things that I spend my time on today include:
 - Supporting my undergraduate and Ph.D. students' research through the [ICSS](https://icss.wm.edu) and [geolab](https://geolab.wm.edu).
