@@ -2,6 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/-danr@wm.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danr@wm.edu "Connect via Email")
 [![Linkedin](https://img.shields.io/badge/-Dan%20Runfola-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geogdan/ "Connect on LinkedIn")
+[![Twitter](https://img.shields.io/badge/-@geogdan-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=geogdan "Follow on Twitter")
 <br />
 [![Letter](https://img.shields.io/badge/-Request%20Reference-lightblue?style=for-the-badge&logo=chainlink)](https://forms.gle/tSSyiHnx6p3ZUvZi7")
 [![Schedule](https://img.shields.io/badge/-Schedule%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ39sKY0Y2jERvKmx4PPLMQBcma3tpR2K20pxyZjF3BmQdYLL79ICHpQbnc1UnTPcUKX1M-_fhto)
