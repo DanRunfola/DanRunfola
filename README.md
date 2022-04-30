@@ -1,5 +1,5 @@
 ## I'm Dan Runfola, a Professor @ [William & Mary](https://geolab.wm.edu)
-[![Schedule](https://img.shields.io/badge/-Schedule%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ39sKY0Y2jERvKmx4PPLMQBcma3tpR2K20pxyZjF3BmQdYLL79ICHpQbnc1UnTPcUKX1M-_fhto)
+[![Schedule](https://img.shields.io/badge/-Schedule%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3CF4zJhbYKWjsvkvedFqhuhdXPnlqJLsKxiRfSJlH0gu4hamwsfuEdS1Xvty6O3-nWYL5HGYzR)
 [![Letter](https://img.shields.io/badge/-Request%20Reference-lightblue?style=for-the-badge&logo=chainlink)](https://forms.gle/tSSyiHnx6p3ZUvZi7)
 [![CourseOverride](https://img.shields.io/badge/-Course%20Overrides-green?style=for-the-badge&logo=sonarsource)](https://wmsas.qualtrics.com/jfe/form/SV_etcuw0GKHBGK9jo)
 <br />
