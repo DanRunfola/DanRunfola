@@ -15,7 +15,7 @@ Things that I spend my time on today include:
 - Coding for the [geoBoundaries Open Administrative Boundaries dataset](https://www.geoboundaries.org)  
 - [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning cycles on bad ones.
 - A range of projects exploring how novel neural network architectures can aid us in extracting data from satellites.  I.e., "playing with fancy videocards".
-- Forgetting to update [my CV](https://docs.google.com/document/d/1rdIEx_osvmdzQhukGPZ2FkaA_gLcRnrIfeY6fbkLJ7g/edit?usp=sharing)
+- Forgetting to update [my CV](https://docs.google.com/document/d/1MrGmk4xVmgiUX276a2sCRTzo-x4Iy1izMV_pr_B61YU/edit?usp=sharing)
 
 If you are reading this page, please note that **I am always looking for good Ph.D. students!**  Good at Python, interested in computer vision and satellite data?  Like Williamsburg when you came as an elementary school student?  [Email me!](mailto:danr@wm.edu)
 
