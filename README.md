@@ -13,7 +13,7 @@ I am an assistant professor of [Data Science](https://ds.wm.edu) and [Applied Sc
 Things that I spend my time on today include:
 - Supporting my undergraduate and Ph.D. students' research through the [geoLab](https://geolab.wm.edu).
 - Coding for the [geoBoundaries Open Administrative Boundaries dataset](https://www.geoboundaries.org)  
-- [Publishing](https://scholar.google.com/citations?user=lqrZ5MoAAAAJ&hl=en) some good ideas, burning cycles on bad ones.
+- [Publishing](https://docs.google.com/document/d/1MrGmk4xVmgiUX276a2sCRTzo-x4Iy1izMV_pr_B61YU/edit?usp=sharing) some good ideas, burning cycles on bad ones.
 - A range of projects exploring how novel neural network architectures can aid us in extracting data from satellites.  I.e., "playing with fancy videocards".
 - Forgetting to update [my CV](https://docs.google.com/document/d/1MrGmk4xVmgiUX276a2sCRTzo-x4Iy1izMV_pr_B61YU/edit?usp=sharing)
 
