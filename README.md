@@ -1,7 +1,6 @@
 ## I'm Dan Runfola, a Professor @ [William & Mary](https://geolab.wm.edu)
 [![Schedule](https://img.shields.io/badge/-Schedule%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3CF4zJhbYKWjsvkvedFqhuhdXPnlqJLsKxiRfSJlH0gu4hamwsfuEdS1Xvty6O3-nWYL5HGYzR)
 [![Letter](https://img.shields.io/badge/-Request%20Reference-lightblue?style=for-the-badge&logo=chainlink)](https://forms.gle/tSSyiHnx6p3ZUvZi7)
-[![CourseOverride](https://img.shields.io/badge/-Course%20Overrides-green?style=for-the-badge&logo=sonarsource)](https://wmsas.qualtrics.com/jfe/form/SV_etcuw0GKHBGK9jo)
 <br />
 [![Gmail](https://img.shields.io/badge/-danr@wm.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danr@wm.edu "Connect via Email")
 [![Linkedin](https://img.shields.io/badge/-Dan%20Runfola-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geogdan/ "Connect on LinkedIn")
