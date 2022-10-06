@@ -17,10 +17,11 @@ Things that I spend my time on today include:
 - Forgetting to update [my CV](https://docs.google.com/document/d/1MrGmk4xVmgiUX276a2sCRTzo-x4Iy1izMV_pr_B61YU/edit?usp=sharing)
 
 If you are reading this page, please note that **I am always looking to fully fund exceptional Ph.D. students!**  Good at Python, interested in computer vision and satellite data?  Like Williamsburg when you came as an elementary school student?  [Email me!](mailto:danr@wm.edu)
-
+<!---
 <a href="">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRunfola&layout=compact">
  </a>
 <a href="">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanRunfola&show_icons=true&bg_color=FFFFFF&layout=compact&count_private=true&hide_rank=true&hide_title=true&hide_border=true&hide=stars">
 </a>
+--->
