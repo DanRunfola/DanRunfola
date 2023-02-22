@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-@geogdan-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=geogdan "Follow on Twitter")
 
 
-I am an assistant professor of [Data Science](https://ds.wm.edu) and [Applied Science](https://as.wm.edu) at [William & Mary](https://www.wm.edu), currently working at the nexus of deep learning and satellite imagery analysis. I work with federal agencies and international NGOs to develop new and secure ways to measure, predict, and improve human wellbeing at micro to macro scales. In collaboration with my wonderful students in the [geoLab](https://geolab.wm.edu), I also help to provision [critical baseline data](https://www.geoboundaries.org) to the opensource community to improve data equality around the world.
+I am an associate professor of [Data Science](https://ds.wm.edu) and [Applied Science](https://as.wm.edu) at [William & Mary](https://www.wm.edu), currently working at the nexus of deep learning and satellite imagery analysis. I work with federal agencies and international NGOs to develop new and secure ways to measure, predict, and improve human wellbeing at micro to macro scales. In collaboration with my wonderful students in the [geoLab](https://geolab.wm.edu), I also help to provision [critical baseline data](https://www.geoboundaries.org) to the opensource community to improve data equality around the world.
 
 Things that I spend my time on today include:
 - Supporting my undergraduate and Ph.D. students' research through the [geoLab](https://geolab.wm.edu).
