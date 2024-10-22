@@ -1,5 +1,4 @@
 ## I'm Dan Runfola, a Professor @ [William & Mary](https://geolab.wm.edu)
-[![Schedule](https://img.shields.io/badge/-Schedule%20Meeting-orange?style=for-the-badge&logo=google-calendar&logoColor=white)](https://outlook.office.com/bookwithme/user/eb60098c51044946b51b16c29b58ccef@wm.edu/meetingtype/J2CW-VlKaEqKF-ekmFJyFQ2?anonymous&ep=owaSlotsCopyLink)
 [![Letter](https://img.shields.io/badge/-Request%20Reference-lightblue?style=for-the-badge&logo=chainlink)](https://forms.gle/tSSyiHnx6p3ZUvZi7)
 <br />
 [![Gmail](https://img.shields.io/badge/-danr@wm.edu-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danr@wm.edu "Connect via Email")
